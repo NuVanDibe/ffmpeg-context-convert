@@ -1,7 +1,8 @@
 [Desktop Entry]
 Type=Service
 ServiceTypes=KonqPopupMenu/Plugin
-MimeType=video/*;
+MimeType=video/*;inode/directory;
+X-KDE-Priority=TopLevel
 Actions=ConvertToMP4;ConvertToAVI;ConvertToMOV;ConvertToMKV;ConvertToWMV;ConvertToFLV;ConvertToMPG;ConvertToMP3;ConvertToOGV;ConvertToWebM;
 X-KDE-Submenu=Convert Video
 Icon=video-x-generic
