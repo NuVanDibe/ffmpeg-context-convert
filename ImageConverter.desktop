@@ -2,8 +2,8 @@
 Type=Service
 ServiceTypes=KonqPopupMenu/Plugin
 X-KDE-Priority=TopLevel
-MimeType=image/jpeg;image/png;image/gif;image/bmp;image/tiff;image/webp;image/svg+xml;image/x-eps;image/x-dcraw;image/vnd.microsoft.icon;
-Actions=ConvertToJPG;ConvertToPNG;ConvertToGIF;ConvertToBMP;ConvertToTIFF;ConvertToWEBP;ConvertToEPS;ConvertToRAW;ConvertToICO;inode/directory;
+MimeType=image/jpeg;image/png;image/gif;image/bmp;image/tiff;image/webp;image/svg+xml;image/x-eps;image/x-dcraw;image/vnd.microsoft.icon;inode/directory;
+Actions=ConvertToJPG;ConvertToPNG;ConvertToGIF;ConvertToBMP;ConvertToTIFF;ConvertToWEBP;ConvertToEPS;ConvertToRAW;ConvertToICO;
 X-KDE-Submenu=Convert Image
 Icon=image
 X-KDE-StartupNotify=false
