@@ -1,7 +1,8 @@
 [Desktop Entry]
 Type=Service
 ServiceTypes=KonqPopupMenu/Plugin
-MimeType=audio/*;
+MimeType=audio/*;inode/directory;
+X-KDE-Priority=TopLevel
 Actions=ConvertToMP3;ConvertToAAC;ConvertToOGG;ConvertToWMA;ConvertToFLAC;ConvertToM4A;ConvertToALAC;ConvertToWAV;ConvertToAIFF;
 X-KDE-Submenu=Convert Audio
 Icon=audio-x-generic
